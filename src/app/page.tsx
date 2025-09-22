@@ -252,7 +252,7 @@ export default function Home() {
             <img
               src="https://kalkine.com.au/static/assets/img-new/kalkinelogo-white-updated-new.svg"
               alt="Kalkine Project"
-              className="rounded-lg mb-4 w-full h-40 object-cover"
+              className="rounded-lg mb-4 w-full h-40 object-contain"
             />
             <h3 className="font-semibold text-xl">Kalkine Stock Market Platform</h3>
             <p className="mt-2 text-sm text-gray-600">
@@ -281,7 +281,7 @@ export default function Home() {
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASJ91rU1HzULL65K2p1FwnklShw7DKUkX-w&s"
               alt="News Portal"
-              className="rounded-lg mb-4 w-full h-40 object-cover"
+              className="rounded-lg mb-4 w-full h-40 object-contain"
             />
             <h3 className="font-semibold text-xl">News Portal Section</h3>
             <p className="mt-2 text-sm text-gray-600">
@@ -303,7 +303,7 @@ export default function Home() {
             <img
               src="https://www.shutterstock.com/image-vector/ui-components-banner-web-icon-260nw-2545168245.jpg"
               alt="UI Components"
-              className="rounded-lg mb-4 w-full h-40 object-cover"
+              className="rounded-lg mb-4 w-full h-40 object-contain"
             />
             <h3 className="font-semibold text-xl">UI Components Library</h3>
             <p className="mt-2 text-sm text-gray-600">
@@ -325,7 +325,7 @@ export default function Home() {
             <img
               src="https://s3-alpha.figma.com/hub/file/4927480915/3835a38d-4275-43de-9694-577ff819411c-cover.png"
               alt="Email Templates"
-              className="rounded-lg mb-4 w-full h-40 object-cover"
+              className="rounded-lg mb-4 w-full h-40 object-contain"
             />
             <h3 className="font-semibold text-xl">Email Templates</h3>
             <p className="mt-2 text-sm text-gray-600">
