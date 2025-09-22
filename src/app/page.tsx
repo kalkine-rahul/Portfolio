@@ -250,7 +250,7 @@ export default function Home() {
           {/* Kalkine Project */}
           <div className="p-6 shadow rounded-xl bg-white">
             <img
-              src="/projects/kalkine-banner.jpg"
+              src="https://kalkine.com.au/static/assets/img-new/kalkinelogo-white-updated-new.svg"
               alt="Kalkine Project"
               className="rounded-lg mb-4 w-full h-40 object-cover"
             />
@@ -279,7 +279,7 @@ export default function Home() {
           {/* News Portal */}
           <div className="p-6 shadow rounded-xl bg-white">
             <img
-              src="/projects/news-portal-banner.jpg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASJ91rU1HzULL65K2p1FwnklShw7DKUkX-w&s"
               alt="News Portal"
               className="rounded-lg mb-4 w-full h-40 object-cover"
             />
@@ -301,7 +301,7 @@ export default function Home() {
           {/* UI Components */}
           <div className="p-6 shadow rounded-xl bg-white">
             <img
-              src="/projects/ui-components-banner.jpg"
+              src="https://www.shutterstock.com/image-vector/ui-components-banner-web-icon-260nw-2545168245.jpg"
               alt="UI Components"
               className="rounded-lg mb-4 w-full h-40 object-cover"
             />
@@ -323,7 +323,7 @@ export default function Home() {
           {/* Email Templates */}
           <div className="p-6 shadow rounded-xl bg-white">
             <img
-              src="/projects/email-templates-banner.jpg"
+              src="https://s3-alpha.figma.com/hub/file/4927480915/3835a38d-4275-43de-9694-577ff819411c-cover.png"
               alt="Email Templates"
               className="rounded-lg mb-4 w-full h-40 object-cover"
             />
