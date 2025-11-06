@@ -141,7 +141,7 @@ export default function Home() {
         <div className="flex justify-center relative">
           <div className="rounded-2xl overflow-hidden shadow-lg border border-green-500/30">
             <Image
-              src="/static/images/profilemine.jpg" // replace with your own image
+              src="/profilemine.jpg" // replace with your own image
               alt="Rahul Kumar"
               width={400}
               height={500}
